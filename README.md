@@ -104,12 +104,12 @@ I am a Computer Science undergraduate based in Coimbatore, India, with a strong 
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ecclesiastescherubin1-spec&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.shion.dev/api?username=ecclesiastescherubin1-spec&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ecclesiastescherubin1-spec&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ecclesiastescherubin1-spec&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" width="50%" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=ecclesiastescherubin1-spec&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" width="50%" />
 </p>
 
 ---
